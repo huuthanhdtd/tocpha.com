@@ -10,7 +10,7 @@ return [
             'port'     => '3306',
             'username' => 'root',
             'password' => 'root',
-            'database' => 'phalconcms',
+            'database' => 'anchor',
             'charset'  => 'utf8mb4'
         ]
     ]

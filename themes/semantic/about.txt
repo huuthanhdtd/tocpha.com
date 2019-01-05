@@ -1,0 +1,5 @@
+Theme name:    Semantic
+Description:   This is the theme for Tocpha.com.
+Author name:   HuuThanhDTD
+Author site:   http://huuthanhdtd.com
+License:       http://huuthanhdtd.com

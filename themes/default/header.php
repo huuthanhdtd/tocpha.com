@@ -2,7 +2,7 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8">
-		<title><?php echo page_title('Page can’t be found'); ?> - <?php echo site_name(); ?></title>
+		<title><?php echo page_title('Page can\'t be found'); ?> - <?php echo site_name(); ?></title>
 
 		<meta name="description" content="<?php echo site_description(); ?>">
 
@@ -22,7 +22,7 @@
 		<script src="<?php echo theme_url('/js/main.js'); ?>"></script>
 
 	    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-	    <meta name="generator" content="Anchor CMS">
+	    <meta name="generator" content="Tocpha.com">
 
 	    <meta property="og:title" content="<?php echo page_title(); ?>">
 	    <meta property="og:type" content="website">

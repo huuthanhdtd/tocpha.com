@@ -1,8 +1,6 @@
-![Anchor Header Image](.github/anchor-bg.jpeg)
-
 # Anchor CMS
 
-Anchor is a super-simple, lightweight blog system, made to let you just write. [Check out the site](http://anchorcms.com/) or checkout the [documentation here](http://docs.anchorcms.com/).
+Anchor is a super-simple, lightweight blog system, made to let you just write. [Check out the site](http://tocpha.com/) or checkout the [documentation here](http://docs.anchorcms.com/).
 
 ## Requirements
 
@@ -40,5 +38,3 @@ If you'd like to help out and contribute to this project, please take a look at 
 ## Feature Requests:
 
 If you would like to add submit a feature request then please go to our [Feathub page](http://feathub.com/anchorcms/anchor-cms).
-
-[![Feature Requests](http://feathub.com/anchorcms/anchor-cms?format=svg)](http://feathub.com/anchorcms/anchor-cms)
