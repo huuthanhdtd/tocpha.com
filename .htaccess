@@ -11,9 +11,9 @@
 
 	#Rewrite anchor directories to index.php/URL even though they exist.
 	#Don't rewrite files so that we can still load CSS, etc (except .log files).
-	RewriteCond %{REQUEST_FILENAME} -f
-	RewriteCond %{REQUEST_URI} !\.log$
-	RewriteRule .* - [S=5]
+#	RewriteCond %{REQUEST_FILENAME} -f
+#	RewriteCond %{REQUEST_URI} !\.log$
+#	RewriteRule .* - [S=5]
 
 	RewriteRule ^(system(?:$|\/.*$)) index.php?/$1 [L]
 	RewriteRule ^(anchor(?:$|\/.*$)) index.php?/$1 [L]
